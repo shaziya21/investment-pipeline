@@ -1,0 +1,9 @@
+# The pipeline runs end-to-end with ZERO third-party packages — sourcing and
+# scoring use only the Python standard library (urllib for HTTP).
+#
+# The single optional dependency below is only needed for the LLM narrative
+# stage. Without it, `analyze` falls back to the deterministic offline path.
+anthropic>=0.40 ; extra == "llm"
+
+# Install the optional LLM support with:  pip install "anthropic>=0.40"
+# Tests use only the standard library (unittest); pytest is optional.
