@@ -1,0 +1,1145 @@
+{
+  "count": 12,
+  "analyses": [
+    {
+      "candidate": {
+        "name": "Hasura",
+        "website": "https://github.com/hasura/graphql-engine",
+        "one_liner": "Fast, instant GraphQL APIs on Postgres",
+        "source": "hacker_news",
+        "hn": {
+          "points": 382,
+          "num_comments": 103,
+          "created_at": "2018-07-16T10:58:24Z",
+          "author": "tango12",
+          "object_id": "17540263",
+          "hn_url": "https://news.ycombinator.com/item?id=17540263"
+        },
+        "github": {
+          "full_name": "hasura/graphql-engine",
+          "stars": 32063,
+          "forks": 2870,
+          "language": "TypeScript",
+          "pushed_at": "2026-06-12T16:21:13Z",
+          "days_since_push": 4,
+          "html_url": "https://github.com/hasura/graphql-engine",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "hasura",
+            "name": "Hasura",
+            "bio": "Hasura is the universal data access layer for next-gen apps and AI",
+            "company": null,
+            "followers": 989,
+            "public_repos": 461,
+            "type": "Organization",
+            "html_url": "https://github.com/hasura"
+          }
+        },
+        "founders_signal": "HN submitter @tango12; GitHub owner: Hasura 989 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "382 points / 103 comments on Show HN, launched ~2892 days ago",
+            "url": "https://news.ycombinator.com/item?id=17540263",
+            "detail": {
+              "points": 382,
+              "comments": 103,
+              "age_days": 2892
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "32063 stars, TypeScript repo, last push 4 days ago",
+            "url": "https://github.com/hasura/graphql-engine",
+            "detail": {
+              "stars": 32063,
+              "language": "TypeScript",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 26,
+        "open_source_wedge": 25,
+        "organic_traction": 21,
+        "market_timing": 5,
+        "total": 77,
+        "notes": {
+          "technical_depth": "repo via direct HN link; developer language (TypeScript); founder has 989 GitHub followers.",
+          "open_source_wedge": "public repo, 1k+ stars (32063).",
+          "organic_traction": "382 HN points, 103 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @tango12; GitHub owner: Hasura 989 GitHub followers. The GitHub owner has 989 followers and 461 public repos; bio: Hasura is the universal data access layer for next-gen apps and AI. Deeper background not findable from public data (treat as unknown).",
+      "product": "Fast, instant GraphQL APIs on Postgres. Built primarily in TypeScript (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: main open question is durability of traction and whether the OSS wedge converts to revenue.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=17540263"
+        },
+        {
+          "claim": "GitHub repo hasura/graphql-engine (32063 stars, matched by direct_link)",
+          "source": "https://github.com/hasura/graphql-engine"
+        },
+        {
+          "claim": "Founder/owner profile @hasura",
+          "source": "https://github.com/hasura"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/hasura/graphql-engine"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 77 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "PgQueuer",
+        "website": "https://github.com/janbjorge/PgQueuer",
+        "one_liner": "Transform PostgreSQL into a Job Queue",
+        "source": "hacker_news",
+        "hn": {
+          "points": 376,
+          "num_comments": 122,
+          "created_at": "2024-08-18T19:22:31Z",
+          "author": "jeeybee",
+          "object_id": "41284703",
+          "hn_url": "https://news.ycombinator.com/item?id=41284703"
+        },
+        "github": {
+          "full_name": "janbjorge/pgqueuer",
+          "stars": 1496,
+          "forks": 35,
+          "language": "Python",
+          "pushed_at": "2026-06-05T21:08:56Z",
+          "days_since_push": 10,
+          "html_url": "https://github.com/janbjorge/pgqueuer",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "janbjorge",
+            "name": "JeyBee",
+            "bio": null,
+            "company": "pio.com",
+            "followers": 29,
+            "public_repos": 19,
+            "type": "User",
+            "html_url": "https://github.com/janbjorge"
+          }
+        },
+        "founders_signal": "HN submitter @jeeybee; GitHub owner: JeyBee (pio.com) 29 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "376 points / 122 comments on Show HN, launched ~666 days ago",
+            "url": "https://news.ycombinator.com/item?id=41284703",
+            "detail": {
+              "points": 376,
+              "comments": 122,
+              "age_days": 666
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "1496 stars, Python repo, last push 10 days ago",
+            "url": "https://github.com/janbjorge/pgqueuer",
+            "detail": {
+              "stars": 1496,
+              "language": "Python",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 26,
+        "open_source_wedge": 25,
+        "organic_traction": 21,
+        "market_timing": 5,
+        "total": 77,
+        "notes": {
+          "technical_depth": "repo via direct HN link; developer language (Python).",
+          "open_source_wedge": "public repo, 1k+ stars (1496).",
+          "organic_traction": "376 HN points, 122 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @jeeybee; GitHub owner: JeyBee (pio.com) 29 GitHub followers. The GitHub owner has 29 followers and 19 public repos. Deeper background not findable from public data (treat as unknown).",
+      "product": "Transform PostgreSQL into a Job Queue. Built primarily in Python (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: main open question is durability of traction and whether the OSS wedge converts to revenue.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=41284703"
+        },
+        {
+          "claim": "GitHub repo janbjorge/pgqueuer (1496 stars, matched by direct_link)",
+          "source": "https://github.com/janbjorge/pgqueuer"
+        },
+        {
+          "claim": "Founder/owner profile @janbjorge",
+          "source": "https://github.com/janbjorge"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/janbjorge/PgQueuer"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 77 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "PgDog",
+        "website": "https://github.com/pgdogdev/pgdog",
+        "one_liner": "Scale Postgres without changing the app",
+        "source": "hacker_news",
+        "hn": {
+          "points": 326,
+          "num_comments": 63,
+          "created_at": "2026-02-23T15:33:24Z",
+          "author": "levkk",
+          "object_id": "47123631",
+          "hn_url": "https://news.ycombinator.com/item?id=47123631"
+        },
+        "github": {
+          "full_name": "pgdogdev/pgdog",
+          "stars": 4989,
+          "forks": 204,
+          "language": "Rust",
+          "pushed_at": "2026-06-16T14:20:58Z",
+          "days_since_push": 0,
+          "html_url": "https://github.com/pgdogdev/pgdog",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "pgdogdev",
+            "name": "PgDog",
+            "bio": "Scale Postgres without changing your app or your database.",
+            "company": null,
+            "followers": 50,
+            "public_repos": 12,
+            "type": "Organization",
+            "html_url": "https://github.com/pgdogdev"
+          }
+        },
+        "founders_signal": "HN submitter @levkk; GitHub owner: PgDog 50 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "326 points / 63 comments on Show HN, launched ~113 days ago",
+            "url": "https://news.ycombinator.com/item?id=47123631",
+            "detail": {
+              "points": 326,
+              "comments": 63,
+              "age_days": 113
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "4989 stars, Rust repo, last push 0 days ago",
+            "url": "https://github.com/pgdogdev/pgdog",
+            "detail": {
+              "stars": 4989,
+              "language": "Rust",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 30,
+        "open_source_wedge": 25,
+        "organic_traction": 17,
+        "market_timing": 5,
+        "total": 77,
+        "notes": {
+          "technical_depth": "repo via direct HN link; systems language (Rust).",
+          "open_source_wedge": "public repo, 1k+ stars (4989).",
+          "organic_traction": "326 HN points, 63 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @levkk; GitHub owner: PgDog 50 GitHub followers. The GitHub owner has 50 followers and 12 public repos; bio: Scale Postgres without changing your app or your database.. Deeper background not findable from public data (treat as unknown).",
+      "product": "Scale Postgres without changing the app. Built primarily in Rust (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: main open question is durability of traction and whether the OSS wedge converts to revenue.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=47123631"
+        },
+        {
+          "claim": "GitHub repo pgdogdev/pgdog (4989 stars, matched by direct_link)",
+          "source": "https://github.com/pgdogdev/pgdog"
+        },
+        {
+          "claim": "Founder/owner profile @pgdogdev",
+          "source": "https://github.com/pgdogdev"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/pgdogdev/pgdog"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 77 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "pg_flame",
+        "website": "https://github.com/mgartner/pg_flame",
+        "one_liner": "flamegraph visualizations of PostgreSQL query plans",
+        "source": "hacker_news",
+        "hn": {
+          "points": 321,
+          "num_comments": 42,
+          "created_at": "2019-10-27T18:49:42Z",
+          "author": "mgartner",
+          "object_id": "21371642",
+          "hn_url": "https://news.ycombinator.com/item?id=21371642"
+        },
+        "github": {
+          "full_name": "mgartner/pg_flame",
+          "stars": 1618,
+          "forks": 36,
+          "language": "Go",
+          "pushed_at": "2020-01-13T23:28:06Z",
+          "days_since_push": 2345,
+          "html_url": "https://github.com/mgartner/pg_flame",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "mgartner",
+            "name": "Marcus Gartner",
+            "bio": null,
+            "company": null,
+            "followers": 49,
+            "public_repos": 51,
+            "type": "User",
+            "html_url": "https://github.com/mgartner"
+          }
+        },
+        "founders_signal": "HN submitter @mgartner; GitHub owner: Marcus Gartner 49 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "321 points / 42 comments on Show HN, launched ~2423 days ago",
+            "url": "https://news.ycombinator.com/item?id=21371642",
+            "detail": {
+              "points": 321,
+              "comments": 42,
+              "age_days": 2423
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "1618 stars, Go repo, last push 2345 days ago",
+            "url": "https://github.com/mgartner/pg_flame",
+            "detail": {
+              "stars": 1618,
+              "language": "Go",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 30,
+        "open_source_wedge": 25,
+        "organic_traction": 17,
+        "market_timing": 5,
+        "total": 77,
+        "notes": {
+          "technical_depth": "repo via direct HN link; systems language (Go).",
+          "open_source_wedge": "public repo, 1k+ stars (1618).",
+          "organic_traction": "321 HN points, 42 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @mgartner; GitHub owner: Marcus Gartner 49 GitHub followers. The GitHub owner has 49 followers and 51 public repos. Deeper background not findable from public data (treat as unknown).",
+      "product": "flamegraph visualizations of PostgreSQL query plans. Built primarily in Go (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: repo's last commit was 2345 days ago — possibly abandoned.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=21371642"
+        },
+        {
+          "claim": "GitHub repo mgartner/pg_flame (1618 stars, matched by direct_link)",
+          "source": "https://github.com/mgartner/pg_flame"
+        },
+        {
+          "claim": "Founder/owner profile @mgartner",
+          "source": "https://github.com/mgartner"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/mgartner/pg_flame"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 77 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "Pgmock",
+        "website": "https://github.com/stackframe-projects/pgmock",
+        "one_liner": "I open-sourced the in-memory PostgreSQL I built at work for E2E tests",
+        "source": "hacker_news",
+        "hn": {
+          "points": 379,
+          "num_comments": 79,
+          "created_at": "2024-04-07T13:13:43Z",
+          "author": "n2d4",
+          "object_id": "39960537",
+          "hn_url": "https://news.ycombinator.com/item?id=39960537"
+        },
+        "github": {
+          "full_name": "hexclave/pgmock",
+          "stars": 1230,
+          "forks": 24,
+          "language": "JavaScript",
+          "pushed_at": "2025-11-26T01:59:31Z",
+          "days_since_push": 202,
+          "html_url": "https://github.com/hexclave/pgmock",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "hexclave",
+            "name": "Stack Auth",
+            "bio": "We build tools that help you launch quicker. https://stack-auth.com",
+            "company": null,
+            "followers": 167,
+            "public_repos": 14,
+            "type": "Organization",
+            "html_url": "https://github.com/hexclave"
+          }
+        },
+        "founders_signal": "HN submitter @n2d4; GitHub owner: Stack Auth 167 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "379 points / 79 comments on Show HN, launched ~800 days ago",
+            "url": "https://news.ycombinator.com/item?id=39960537",
+            "detail": {
+              "points": 379,
+              "comments": 79,
+              "age_days": 800
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "1230 stars, JavaScript repo, last push 202 days ago",
+            "url": "https://github.com/hexclave/pgmock",
+            "detail": {
+              "stars": 1230,
+              "language": "JavaScript",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 26,
+        "open_source_wedge": 25,
+        "organic_traction": 17,
+        "market_timing": 5,
+        "total": 73,
+        "notes": {
+          "technical_depth": "repo via direct HN link; developer language (JavaScript).",
+          "open_source_wedge": "public repo, 1k+ stars (1230).",
+          "organic_traction": "379 HN points, 79 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @n2d4; GitHub owner: Stack Auth 167 GitHub followers. The GitHub owner has 167 followers and 14 public repos; bio: We build tools that help you launch quicker. https://stack-auth.com. Deeper background not findable from public data (treat as unknown).",
+      "product": "I open-sourced the in-memory PostgreSQL I built at work for E2E tests. Built primarily in JavaScript (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: main open question is durability of traction and whether the OSS wedge converts to revenue.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=39960537"
+        },
+        {
+          "claim": "GitHub repo hexclave/pgmock (1230 stars, matched by direct_link)",
+          "source": "https://github.com/hexclave/pgmock"
+        },
+        {
+          "claim": "Founder/owner profile @hexclave",
+          "source": "https://github.com/hexclave"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/stackframe-projects/pgmock"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 73 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "Honker",
+        "website": "https://github.com/russellromney/honker",
+        "one_liner": "Postgres NOTIFY/LISTEN Semantics for SQLite",
+        "source": "hacker_news",
+        "hn": {
+          "points": 327,
+          "num_comments": 84,
+          "created_at": "2026-04-23T11:53:11Z",
+          "author": "russellthehippo",
+          "object_id": "47874647",
+          "hn_url": "https://news.ycombinator.com/item?id=47874647"
+        },
+        "github": {
+          "full_name": "russellromney/honker",
+          "stars": 2852,
+          "forks": 69,
+          "language": "Python",
+          "pushed_at": "2026-06-15T20:06:10Z",
+          "days_since_push": 0,
+          "html_url": "https://github.com/russellromney/honker",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "russellromney",
+            "name": "russell romney",
+            "bio": "software engineer, urbanism geek",
+            "company": null,
+            "followers": 125,
+            "public_repos": 156,
+            "type": "User",
+            "html_url": "https://github.com/russellromney"
+          }
+        },
+        "founders_signal": "HN submitter @russellthehippo; GitHub owner: russell romney 125 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "327 points / 84 comments on Show HN, launched ~54 days ago",
+            "url": "https://news.ycombinator.com/item?id=47874647",
+            "detail": {
+              "points": 327,
+              "comments": 84,
+              "age_days": 54
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "2852 stars, Python repo, last push 0 days ago",
+            "url": "https://github.com/russellromney/honker",
+            "detail": {
+              "stars": 2852,
+              "language": "Python",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 26,
+        "open_source_wedge": 25,
+        "organic_traction": 17,
+        "market_timing": 5,
+        "total": 73,
+        "notes": {
+          "technical_depth": "repo via direct HN link; developer language (Python).",
+          "open_source_wedge": "public repo, 1k+ stars (2852).",
+          "organic_traction": "327 HN points, 84 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @russellthehippo; GitHub owner: russell romney 125 GitHub followers. The GitHub owner has 125 followers and 156 public repos; bio: software engineer, urbanism geek. Deeper background not findable from public data (treat as unknown).",
+      "product": "Postgres NOTIFY/LISTEN Semantics for SQLite. Built primarily in Python (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: main open question is durability of traction and whether the OSS wedge converts to revenue.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=47874647"
+        },
+        {
+          "claim": "GitHub repo russellromney/honker (2852 stars, matched by direct_link)",
+          "source": "https://github.com/russellromney/honker"
+        },
+        {
+          "claim": "Founder/owner profile @russellromney",
+          "source": "https://github.com/russellromney"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/russellromney/honker"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 73 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "Speeding up PostgreSQL through vectorized execution",
+        "website": "https://github.com/citusdata/postgres_vectorization_test",
+        "one_liner": "",
+        "source": "hacker_news",
+        "hn": {
+          "points": 332,
+          "num_comments": 36,
+          "created_at": "2014-10-07T20:30:09Z",
+          "author": "canguler",
+          "object_id": "8423825",
+          "hn_url": "https://news.ycombinator.com/item?id=8423825"
+        },
+        "github": {
+          "full_name": "citusdata/postgres_vectorization_test",
+          "stars": 335,
+          "forks": 23,
+          "language": "C",
+          "pushed_at": "2015-03-31T10:50:49Z",
+          "days_since_push": 4095,
+          "html_url": "https://github.com/citusdata/postgres_vectorization_test",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "citusdata",
+            "name": "Citus Data",
+            "bio": "Scalable PostgreSQL",
+            "company": null,
+            "followers": 292,
+            "public_repos": 67,
+            "type": "Organization",
+            "html_url": "https://github.com/citusdata"
+          }
+        },
+        "founders_signal": "HN submitter @canguler; GitHub owner: Citus Data 292 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "332 points / 36 comments on Show HN, launched ~4269 days ago",
+            "url": "https://news.ycombinator.com/item?id=8423825",
+            "detail": {
+              "points": 332,
+              "comments": 36,
+              "age_days": 4269
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "335 stars, C repo, last push 4095 days ago",
+            "url": "https://github.com/citusdata/postgres_vectorization_test",
+            "detail": {
+              "stars": 335,
+              "language": "C",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 30,
+        "open_source_wedge": 21,
+        "organic_traction": 14,
+        "market_timing": 5,
+        "total": 70,
+        "notes": {
+          "technical_depth": "repo via direct HN link; systems language (C).",
+          "open_source_wedge": "public repo, 200+ stars (335).",
+          "organic_traction": "332 HN points, 36 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @canguler; GitHub owner: Citus Data 292 GitHub followers. The GitHub owner has 292 followers and 67 public repos; bio: Scalable PostgreSQL. Deeper background not findable from public data (treat as unknown).",
+      "product": "No description provided. Built primarily in C (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: repo's last commit was 4095 days ago — possibly abandoned.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=8423825"
+        },
+        {
+          "claim": "GitHub repo citusdata/postgres_vectorization_test (335 stars, matched by direct_link)",
+          "source": "https://github.com/citusdata/postgres_vectorization_test"
+        },
+        {
+          "claim": "Founder/owner profile @citusdata",
+          "source": "https://github.com/citusdata"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/citusdata/postgres_vectorization_test"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 70 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "PostgreSQL index advisor",
+        "website": "https://github.com/supabase/index_advisor",
+        "one_liner": "This is a Postgres extension that can determine if a query should have an index. For example, for this table:<p><pre><code>    create table ",
+        "source": "hacker_news",
+        "hn": {
+          "points": 417,
+          "num_comments": 97,
+          "created_at": "2024-04-14T02:14:36Z",
+          "author": "kiwicopple",
+          "object_id": "40028111",
+          "hn_url": "https://news.ycombinator.com/item?id=40028111"
+        },
+        "github": {
+          "full_name": "supabase/index_advisor",
+          "stars": 1700,
+          "forks": 21,
+          "language": "PLpgSQL",
+          "pushed_at": "2024-04-14T03:38:25Z",
+          "days_since_push": 793,
+          "html_url": "https://github.com/supabase/index_advisor",
+          "matched_by": "direct_link",
+          "owner_profile": {
+            "login": "supabase",
+            "name": "Supabase",
+            "bio": "The Postgres Development Platform.",
+            "company": null,
+            "followers": 10455,
+            "public_repos": 154,
+            "type": "Organization",
+            "html_url": "https://github.com/supabase"
+          }
+        },
+        "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "417 points / 97 comments on Show HN, launched ~793 days ago",
+            "url": "https://news.ycombinator.com/item?id=40028111",
+            "detail": {
+              "points": 417,
+              "comments": 97,
+              "age_days": 793
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "1700 stars, PLpgSQL repo, last push 793 days ago",
+            "url": "https://github.com/supabase/index_advisor",
+            "detail": {
+              "stars": 1700,
+              "language": "PLpgSQL",
+              "matched_by": "direct_link"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 22,
+        "open_source_wedge": 25,
+        "organic_traction": 17,
+        "market_timing": 5,
+        "total": 69,
+        "notes": {
+          "technical_depth": "repo via direct HN link; language: PLpgSQL; founder has 10455 GitHub followers.",
+          "open_source_wedge": "public repo, 1k+ stars (1700).",
+          "organic_traction": "417 HN points, 97 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Take a meeting",
+      "team": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers. The GitHub owner has 10455 followers and 154 public repos; bio: The Postgres Development Platform.. Deeper background not findable from public data (treat as unknown).",
+      "product": "This is a Postgres extension that can determine if a query should have an index. For example, for this table:<p><pre><code>    create table. Built primarily in PLpgSQL (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: repo's last commit was 793 days ago — possibly abandoned.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=40028111"
+        },
+        {
+          "claim": "GitHub repo supabase/index_advisor (1700 stars, matched by direct_link)",
+          "source": "https://github.com/supabase/index_advisor"
+        },
+        {
+          "claim": "Founder/owner profile @supabase",
+          "source": "https://github.com/supabase"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://github.com/supabase/index_advisor"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 69 ≥ 68."
+    },
+    {
+      "candidate": {
+        "name": "PGlite",
+        "website": "https://pglite.dev/",
+        "one_liner": "in-browser WASM Postgres with pgvector and live sync",
+        "source": "hacker_news",
+        "hn": {
+          "points": 509,
+          "num_comments": 108,
+          "created_at": "2024-08-12T14:20:03Z",
+          "author": "samwillis",
+          "object_id": "41224689",
+          "hn_url": "https://news.ycombinator.com/item?id=41224689"
+        },
+        "github": {
+          "full_name": "electric-sql/pglite",
+          "stars": 15399,
+          "forks": 391,
+          "language": "TypeScript",
+          "pushed_at": "2026-06-16T16:07:45Z",
+          "days_since_push": 0,
+          "html_url": "https://github.com/electric-sql/pglite",
+          "matched_by": "name_search",
+          "owner_profile": {
+            "login": "electric-sql",
+            "name": "Electric",
+            "bio": "The agent platform built on sync.",
+            "company": null,
+            "followers": 585,
+            "public_repos": 60,
+            "type": "Organization",
+            "html_url": "https://github.com/electric-sql"
+          }
+        },
+        "founders_signal": "HN submitter @samwillis; GitHub owner: Electric 585 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "509 points / 108 comments on Show HN, launched ~673 days ago",
+            "url": "https://news.ycombinator.com/item?id=41224689",
+            "detail": {
+              "points": 509,
+              "comments": 108,
+              "age_days": 673
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "15399 stars, TypeScript repo, last push 0 days ago",
+            "url": "https://github.com/electric-sql/pglite",
+            "detail": {
+              "stars": 15399,
+              "language": "TypeScript",
+              "matched_by": "name_search"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 18,
+        "open_source_wedge": 12,
+        "organic_traction": 25,
+        "market_timing": 5,
+        "total": 60,
+        "notes": {
+          "technical_depth": "repo via name search (lower confidence); developer language (TypeScript); founder has 585 GitHub followers.",
+          "open_source_wedge": "public repo, 1k+ stars, name-matched (unverified repo) (15399).",
+          "organic_traction": "509 HN points, 108 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Watch",
+      "team": "HN submitter @samwillis; GitHub owner: Electric 585 GitHub followers. The GitHub owner has 585 followers and 60 public repos; bio: The agent platform built on sync.. Deeper background not findable from public data (treat as unknown).",
+      "product": "in-browser WASM Postgres with pgvector and live sync. Built primarily in TypeScript (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: GitHub repo was matched by name search, not a direct link — verify it's the right repo.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=41224689"
+        },
+        {
+          "claim": "GitHub repo electric-sql/pglite (15399 stars, matched by name_search)",
+          "source": "https://github.com/electric-sql/pglite"
+        },
+        {
+          "claim": "Founder/owner profile @electric-sql",
+          "source": "https://github.com/electric-sql"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://pglite.dev/"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 60 in [48, 68)."
+    },
+    {
+      "candidate": {
+        "name": "Pg_CRDT",
+        "website": "https://supabase.com/blog/postgres-crdt",
+        "one_liner": "an experimental CRDT extension for Postgres",
+        "source": "hacker_news",
+        "hn": {
+          "points": 296,
+          "num_comments": 38,
+          "created_at": "2022-12-10T12:20:24Z",
+          "author": "kiwicopple",
+          "object_id": "33931971",
+          "hn_url": "https://news.ycombinator.com/item?id=33931971"
+        },
+        "github": {
+          "full_name": "supabase/pg_crdt",
+          "stars": 646,
+          "forks": 17,
+          "language": "C",
+          "pushed_at": "2025-04-11T16:08:19Z",
+          "days_since_push": 431,
+          "html_url": "https://github.com/supabase/pg_crdt",
+          "matched_by": "name_search",
+          "owner_profile": {
+            "login": "supabase",
+            "name": "Supabase",
+            "bio": "The Postgres Development Platform.",
+            "company": null,
+            "followers": 10455,
+            "public_repos": 154,
+            "type": "Organization",
+            "html_url": "https://github.com/supabase"
+          }
+        },
+        "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "296 points / 38 comments on Show HN, launched ~1284 days ago",
+            "url": "https://news.ycombinator.com/item?id=33931971",
+            "detail": {
+              "points": 296,
+              "comments": 38,
+              "age_days": 1284
+            }
+          },
+          {
+            "kind": "github_repo",
+            "summary": "646 stars, C repo, last push 431 days ago",
+            "url": "https://github.com/supabase/pg_crdt",
+            "detail": {
+              "stars": 646,
+              "language": "C",
+              "matched_by": "name_search"
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 22,
+        "open_source_wedge": 10,
+        "organic_traction": 14,
+        "market_timing": 5,
+        "total": 51,
+        "notes": {
+          "technical_depth": "repo via name search (lower confidence); systems language (C); founder has 10455 GitHub followers.",
+          "open_source_wedge": "public repo, 200+ stars, name-matched (unverified repo) (646).",
+          "organic_traction": "296 HN points, 38 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Watch",
+      "team": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers. The GitHub owner has 10455 followers and 154 public repos; bio: The Postgres Development Platform.. Deeper background not findable from public data (treat as unknown).",
+      "product": "an experimental CRDT extension for Postgres. Built primarily in C (per its public repo).",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: GitHub repo was matched by name search, not a direct link — verify it's the right repo; repo's last commit was 431 days ago — possibly abandoned.",
+      "change_my_mind": [
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=33931971"
+        },
+        {
+          "claim": "GitHub repo supabase/pg_crdt (646 stars, matched by name_search)",
+          "source": "https://github.com/supabase/pg_crdt"
+        },
+        {
+          "claim": "Founder/owner profile @supabase",
+          "source": "https://github.com/supabase"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://supabase.com/blog/postgres-crdt"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 51 in [48, 68)."
+    },
+    {
+      "candidate": {
+        "name": "Bi-directional sync between Postgres and SQLite",
+        "website": "https://powersync.com",
+        "one_liner": "Hi HN,<p>Today we’re launching PowerSync, a Postgres&lt;&gt;SQLite bi-directional sync engine that enables an offline-first app architecture",
+        "source": "hacker_news",
+        "hn": {
+          "points": 356,
+          "num_comments": 105,
+          "created_at": "2023-11-30T14:13:25Z",
+          "author": "matharmin",
+          "object_id": "38473743",
+          "hn_url": "https://news.ycombinator.com/item?id=38473743"
+        },
+        "github": null,
+        "founders_signal": "HN submitter @matharmin",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "356 points / 105 comments on Show HN, launched ~929 days ago",
+            "url": "https://news.ycombinator.com/item?id=38473743",
+            "detail": {
+              "points": 356,
+              "comments": 105,
+              "age_days": 929
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 0,
+        "open_source_wedge": 0,
+        "organic_traction": 21,
+        "market_timing": 5,
+        "total": 26,
+        "notes": {
+          "technical_depth": "No public GitHub repo found — technical depth could not be verified.",
+          "open_source_wedge": "No public repo — no open-source wedge.",
+          "organic_traction": "356 HN points, 105 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Pass",
+      "team": "HN submitter @matharmin. Deeper background not findable from public data (treat as unknown).",
+      "product": "Hi HN,<p>Today we’re launching PowerSync, a Postgres&lt;&gt;SQLite bi-directional sync engine that enables an offline-first app architecture.",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: no public repo found, so technical depth and the open-source wedge are unverified.",
+      "change_my_mind": [
+        "Finding an active public repo with real commit history and a technical founder",
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=38473743"
+        },
+        {
+          "claim": "Product website",
+          "source": "https://powersync.com"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 26 < 48."
+    },
+    {
+      "candidate": {
+        "name": "1M rows/s from Postgres to Python",
+        "website": "http://magic.io/blog/asyncpg-1m-rows-from-postgres-to-python/",
+        "one_liner": "",
+        "source": "hacker_news",
+        "hn": {
+          "points": 296,
+          "num_comments": 89,
+          "created_at": "2016-08-04T18:29:42Z",
+          "author": "1st1",
+          "object_id": "12227507",
+          "hn_url": "https://news.ycombinator.com/item?id=12227507"
+        },
+        "github": null,
+        "founders_signal": "HN submitter @1st1",
+        "signals": [
+          {
+            "kind": "hn_launch",
+            "summary": "296 points / 89 comments on Show HN, launched ~3602 days ago",
+            "url": "https://news.ycombinator.com/item?id=12227507",
+            "detail": {
+              "points": 296,
+              "comments": 89,
+              "age_days": 3602
+            }
+          }
+        ]
+      },
+      "score": {
+        "technical_depth": 0,
+        "open_source_wedge": 0,
+        "organic_traction": 17,
+        "market_timing": 5,
+        "total": 22,
+        "notes": {
+          "technical_depth": "No public GitHub repo found — technical depth could not be verified.",
+          "open_source_wedge": "No public repo — no open-source wedge.",
+          "organic_traction": "296 HN points, 89 comments.",
+          "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
+        }
+      },
+      "call": "Pass",
+      "team": "HN submitter @1st1. Deeper background not findable from public data (treat as unknown).",
+      "product": "No description provided.",
+      "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
+      "risks": "Key risks / open questions: no public repo found, so technical depth and the open-source wedge are unverified.",
+      "change_my_mind": [
+        "Finding an active public repo with real commit history and a technical founder",
+        "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
+        "A clear wedge from open-source adoption to a monetizable product"
+      ],
+      "sources": [
+        {
+          "claim": "Sourced from Hacker News Show HN",
+          "source": "https://news.ycombinator.com/item?id=12227507"
+        },
+        {
+          "claim": "Product website",
+          "source": "http://magic.io/blog/asyncpg-1m-rows-from-postgres-to-python/"
+        }
+      ],
+      "generated_by": "offline-heuristic",
+      "call_reason": "Score 22 < 48."
+    }
+  ]
+}
