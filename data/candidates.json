@@ -17,10 +17,10 @@
       },
       "github": {
         "full_name": "electric-sql/pglite",
-        "stars": 15399,
+        "stars": 15403,
         "forks": 391,
         "language": "TypeScript",
-        "pushed_at": "2026-06-16T16:07:45Z",
+        "pushed_at": "2026-06-16T18:34:09Z",
         "days_since_push": 0,
         "html_url": "https://github.com/electric-sql/pglite",
         "matched_by": "name_search",
@@ -29,13 +29,13 @@
           "name": "Electric",
           "bio": "The agent platform built on sync.",
           "company": null,
-          "followers": 585,
+          "followers": 586,
           "public_repos": 60,
           "type": "Organization",
           "html_url": "https://github.com/electric-sql"
         }
       },
-      "founders_signal": "HN submitter @samwillis; GitHub owner: Electric 585 GitHub followers",
+      "founders_signal": "HN submitter @samwillis; GitHub owner: Electric 586 GitHub followers",
       "signals": [
         {
           "kind": "hn_launch",
@@ -49,10 +49,10 @@
         },
         {
           "kind": "github_repo",
-          "summary": "15399 stars, TypeScript repo, last push 0 days ago",
+          "summary": "15403 stars, TypeScript repo, last push 0 days ago",
           "url": "https://github.com/electric-sql/pglite",
           "detail": {
-            "stars": 15399,
+            "stars": 15403,
             "language": "TypeScript",
             "matched_by": "name_search"
           }
@@ -78,7 +78,7 @@
         "forks": 21,
         "language": "PLpgSQL",
         "pushed_at": "2024-04-14T03:38:25Z",
-        "days_since_push": 793,
+        "days_since_push": 794,
         "html_url": "https://github.com/supabase/index_advisor",
         "matched_by": "direct_link",
         "owner_profile": {
@@ -86,27 +86,27 @@
           "name": "Supabase",
           "bio": "The Postgres Development Platform.",
           "company": null,
-          "followers": 10455,
+          "followers": 10468,
           "public_repos": 154,
           "type": "Organization",
           "html_url": "https://github.com/supabase"
         }
       },
-      "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers",
+      "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10468 GitHub followers",
       "signals": [
         {
           "kind": "hn_launch",
-          "summary": "417 points / 97 comments on Show HN, launched ~793 days ago",
+          "summary": "417 points / 97 comments on Show HN, launched ~794 days ago",
           "url": "https://news.ycombinator.com/item?id=40028111",
           "detail": {
             "points": 417,
             "comments": 97,
-            "age_days": 793
+            "age_days": 794
           }
         },
         {
           "kind": "github_repo",
-          "summary": "1700 stars, PLpgSQL repo, last push 793 days ago",
+          "summary": "1700 stars, PLpgSQL repo, last push 794 days ago",
           "url": "https://github.com/supabase/index_advisor",
           "detail": {
             "stars": 1700,
@@ -132,7 +132,7 @@
       "github": {
         "full_name": "hasura/graphql-engine",
         "stars": 32063,
-        "forks": 2870,
+        "forks": 2871,
         "language": "TypeScript",
         "pushed_at": "2026-06-12T16:21:13Z",
         "days_since_push": 4,
@@ -143,13 +143,13 @@
           "name": "Hasura",
           "bio": "Hasura is the universal data access layer for next-gen apps and AI",
           "company": null,
-          "followers": 989,
+          "followers": 990,
           "public_repos": 461,
           "type": "Organization",
           "html_url": "https://github.com/hasura"
         }
       },
-      "founders_signal": "HN submitter @tango12; GitHub owner: Hasura 989 GitHub followers",
+      "founders_signal": "HN submitter @tango12; GitHub owner: Hasura 990 GitHub followers",
       "signals": [
         {
           "kind": "hn_launch",
@@ -188,11 +188,11 @@
       },
       "github": {
         "full_name": "hexclave/pgmock",
-        "stars": 1230,
+        "stars": 1231,
         "forks": 24,
         "language": "JavaScript",
         "pushed_at": "2025-11-26T01:59:31Z",
-        "days_since_push": 202,
+        "days_since_push": 203,
         "html_url": "https://github.com/hexclave/pgmock",
         "matched_by": "direct_link",
         "owner_profile": {
@@ -220,10 +220,10 @@
         },
         {
           "kind": "github_repo",
-          "summary": "1230 stars, JavaScript repo, last push 202 days ago",
+          "summary": "1231 stars, JavaScript repo, last push 203 days ago",
           "url": "https://github.com/hexclave/pgmock",
           "detail": {
-            "stars": 1230,
+            "stars": 1231,
             "language": "JavaScript",
             "matched_by": "direct_link"
           }
@@ -249,7 +249,7 @@
         "forks": 35,
         "language": "Python",
         "pushed_at": "2026-06-05T21:08:56Z",
-        "days_since_push": 10,
+        "days_since_push": 11,
         "html_url": "https://github.com/janbjorge/pgqueuer",
         "matched_by": "direct_link",
         "owner_profile": {
@@ -267,17 +267,17 @@
       "signals": [
         {
           "kind": "hn_launch",
-          "summary": "376 points / 122 comments on Show HN, launched ~666 days ago",
+          "summary": "376 points / 122 comments on Show HN, launched ~667 days ago",
           "url": "https://news.ycombinator.com/item?id=41284703",
           "detail": {
             "points": 376,
             "comments": 122,
-            "age_days": 666
+            "age_days": 667
           }
         },
         {
           "kind": "github_repo",
-          "summary": "1496 stars, Python repo, last push 10 days ago",
+          "summary": "1496 stars, Python repo, last push 11 days ago",
           "url": "https://github.com/janbjorge/pgqueuer",
           "detail": {
             "stars": 1496,
@@ -352,12 +352,12 @@
       "signals": [
         {
           "kind": "hn_launch",
-          "summary": "332 points / 36 comments on Show HN, launched ~4269 days ago",
+          "summary": "332 points / 36 comments on Show HN, launched ~4270 days ago",
           "url": "https://news.ycombinator.com/item?id=8423825",
           "detail": {
             "points": 332,
             "comments": 36,
-            "age_days": 4269
+            "age_days": 4270
           }
         },
         {
@@ -387,11 +387,11 @@
       },
       "github": {
         "full_name": "russellromney/honker",
-        "stars": 2852,
+        "stars": 2859,
         "forks": 69,
         "language": "Python",
         "pushed_at": "2026-06-15T20:06:10Z",
-        "days_since_push": 0,
+        "days_since_push": 1,
         "html_url": "https://github.com/russellromney/honker",
         "matched_by": "direct_link",
         "owner_profile": {
@@ -399,13 +399,13 @@
           "name": "russell romney",
           "bio": "software engineer, urbanism geek",
           "company": null,
-          "followers": 125,
-          "public_repos": 156,
+          "followers": 126,
+          "public_repos": 157,
           "type": "User",
           "html_url": "https://github.com/russellromney"
         }
       },
-      "founders_signal": "HN submitter @russellthehippo; GitHub owner: russell romney 125 GitHub followers",
+      "founders_signal": "HN submitter @russellthehippo; GitHub owner: russell romney 126 GitHub followers",
       "signals": [
         {
           "kind": "hn_launch",
@@ -419,10 +419,10 @@
         },
         {
           "kind": "github_repo",
-          "summary": "2852 stars, Python repo, last push 0 days ago",
+          "summary": "2859 stars, Python repo, last push 1 days ago",
           "url": "https://github.com/russellromney/honker",
           "detail": {
-            "stars": 2852,
+            "stars": 2859,
             "language": "Python",
             "matched_by": "direct_link"
           }
@@ -444,10 +444,10 @@
       },
       "github": {
         "full_name": "pgdogdev/pgdog",
-        "stars": 4989,
+        "stars": 4990,
         "forks": 204,
         "language": "Rust",
-        "pushed_at": "2026-06-16T14:20:58Z",
+        "pushed_at": "2026-06-16T19:54:48Z",
         "days_since_push": 0,
         "html_url": "https://github.com/pgdogdev/pgdog",
         "matched_by": "direct_link",
@@ -476,10 +476,10 @@
         },
         {
           "kind": "github_repo",
-          "summary": "4989 stars, Rust repo, last push 0 days ago",
+          "summary": "4990 stars, Rust repo, last push 0 days ago",
           "url": "https://github.com/pgdogdev/pgdog",
           "detail": {
-            "stars": 4989,
+            "stars": 4990,
             "language": "Rust",
             "matched_by": "direct_link"
           }
@@ -505,7 +505,7 @@
         "forks": 36,
         "language": "Go",
         "pushed_at": "2020-01-13T23:28:06Z",
-        "days_since_push": 2345,
+        "days_since_push": 2346,
         "html_url": "https://github.com/mgartner/pg_flame",
         "matched_by": "direct_link",
         "owner_profile": {
@@ -523,17 +523,17 @@
       "signals": [
         {
           "kind": "hn_launch",
-          "summary": "321 points / 42 comments on Show HN, launched ~2423 days ago",
+          "summary": "321 points / 42 comments on Show HN, launched ~2424 days ago",
           "url": "https://news.ycombinator.com/item?id=21371642",
           "detail": {
             "points": 321,
             "comments": 42,
-            "age_days": 2423
+            "age_days": 2424
           }
         },
         {
           "kind": "github_repo",
-          "summary": "1618 stars, Go repo, last push 2345 days ago",
+          "summary": "1618 stars, Go repo, last push 2346 days ago",
           "url": "https://github.com/mgartner/pg_flame",
           "detail": {
             "stars": 1618,
@@ -561,12 +561,12 @@
       "signals": [
         {
           "kind": "hn_launch",
-          "summary": "296 points / 89 comments on Show HN, launched ~3602 days ago",
+          "summary": "296 points / 89 comments on Show HN, launched ~3603 days ago",
           "url": "https://news.ycombinator.com/item?id=12227507",
           "detail": {
             "points": 296,
             "comments": 89,
-            "age_days": 3602
+            "age_days": 3603
           }
         }
       ]
@@ -598,13 +598,13 @@
           "name": "Supabase",
           "bio": "The Postgres Development Platform.",
           "company": null,
-          "followers": 10455,
+          "followers": 10468,
           "public_repos": 154,
           "type": "Organization",
           "html_url": "https://github.com/supabase"
         }
       },
-      "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers",
+      "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10468 GitHub followers",
       "signals": [
         {
           "kind": "hn_launch",

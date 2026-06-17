@@ -63,13 +63,25 @@ reviewed each stage's output and redirected when something was wrong.
 
 ## My reflection (in my own words)
 
-<!--
-WRITE THIS YOURSELF. A few honest prompts to answer in your own voice:
-- Where did you push back on the agent, or throw away what it produced?
-- Which decision were you least sure about, and why?
-- What would you do differently or build next with another day?
-- What did working this way teach you about using AI well?
-Keep it real and specific. Do not let a model write this part.
--->
+**Where did I push back on the agent / throw away what it produced?**
+When I ran the "developer tools" topic, the number-one result was "developer-roadmap",
+which isn't even a startup — and the result it generated was wrong. It got a score of 71
+and a "Take a meeting" call, which was wrong because developer-roadmap is not a startup but
+the agent was treating it as one. So I pointed that out and we fixed that part, and I changed
+the topic from "developer tools" to "Postgres". I learned that I shouldn't trust the output
+just because it ran successfully.
 
-_(your reflection goes here)_
+**Which decision was I least sure about, and why?**
+I was least sure about the threshold part, where a score greater than 68 gave a "Take a
+meeting" — that number felt randomly chosen to me. Also, when I wasn't using the LLM, the
+agent gave 0.25 to the market component, which also looks random and not really calculated.
+
+**What would I do differently or build next with another day?**
+With another day, I'd use a real Claude key to fill in the market section, and I'd add a
+founder's LinkedIn/Twitter signal. I'd also connect Product Hunt and YC data, and I would
+calibrate the score more so that we get fewer "Take a meeting" calls.
+
+**What did working this way teach me about using AI well?**
+AI codes fast, but you need to validate it — you can't blindly trust AI agents, because they
+hallucinate a lot. You need to make a proper plan with the AI first, so the implementation
+takes fewer iterations and comes out clean and correct.

@@ -18,7 +18,7 @@
         "github": {
           "full_name": "hasura/graphql-engine",
           "stars": 32063,
-          "forks": 2870,
+          "forks": 2871,
           "language": "TypeScript",
           "pushed_at": "2026-06-12T16:21:13Z",
           "days_since_push": 4,
@@ -29,13 +29,13 @@
             "name": "Hasura",
             "bio": "Hasura is the universal data access layer for next-gen apps and AI",
             "company": null,
-            "followers": 989,
+            "followers": 990,
             "public_repos": 461,
             "type": "Organization",
             "html_url": "https://github.com/hasura"
           }
         },
-        "founders_signal": "HN submitter @tango12; GitHub owner: Hasura 989 GitHub followers",
+        "founders_signal": "HN submitter @tango12; GitHub owner: Hasura 990 GitHub followers",
         "signals": [
           {
             "kind": "hn_launch",
@@ -66,14 +66,14 @@
         "market_timing": 5,
         "total": 77,
         "notes": {
-          "technical_depth": "repo via direct HN link; developer language (TypeScript); founder has 989 GitHub followers.",
+          "technical_depth": "repo via direct HN link; developer language (TypeScript); founder has 990 GitHub followers.",
           "open_source_wedge": "public repo, 1k+ stars (32063).",
           "organic_traction": "382 HN points, 103 comments.",
           "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
         }
       },
       "call": "Take a meeting",
-      "team": "HN submitter @tango12; GitHub owner: Hasura 989 GitHub followers. The GitHub owner has 989 followers and 461 public repos; bio: Hasura is the universal data access layer for next-gen apps and AI. Deeper background not findable from public data (treat as unknown).",
+      "team": "HN submitter @tango12; GitHub owner: Hasura 990 GitHub followers. The GitHub owner has 990 followers and 461 public repos; bio: Hasura is the universal data access layer for next-gen apps and AI. Deeper background not findable from public data (treat as unknown).",
       "product": "Fast, instant GraphQL APIs on Postgres. Built primarily in TypeScript (per its public repo).",
       "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
       "risks": "Key risks / open questions: main open question is durability of traction and whether the OSS wedge converts to revenue.",
@@ -122,7 +122,7 @@
           "forks": 35,
           "language": "Python",
           "pushed_at": "2026-06-05T21:08:56Z",
-          "days_since_push": 10,
+          "days_since_push": 11,
           "html_url": "https://github.com/janbjorge/pgqueuer",
           "matched_by": "direct_link",
           "owner_profile": {
@@ -140,17 +140,17 @@
         "signals": [
           {
             "kind": "hn_launch",
-            "summary": "376 points / 122 comments on Show HN, launched ~666 days ago",
+            "summary": "376 points / 122 comments on Show HN, launched ~667 days ago",
             "url": "https://news.ycombinator.com/item?id=41284703",
             "detail": {
               "points": 376,
               "comments": 122,
-              "age_days": 666
+              "age_days": 667
             }
           },
           {
             "kind": "github_repo",
-            "summary": "1496 stars, Python repo, last push 10 days ago",
+            "summary": "1496 stars, Python repo, last push 11 days ago",
             "url": "https://github.com/janbjorge/pgqueuer",
             "detail": {
               "stars": 1496,
@@ -219,10 +219,10 @@
         },
         "github": {
           "full_name": "pgdogdev/pgdog",
-          "stars": 4989,
+          "stars": 4990,
           "forks": 204,
           "language": "Rust",
-          "pushed_at": "2026-06-16T14:20:58Z",
+          "pushed_at": "2026-06-16T19:54:48Z",
           "days_since_push": 0,
           "html_url": "https://github.com/pgdogdev/pgdog",
           "matched_by": "direct_link",
@@ -251,10 +251,10 @@
           },
           {
             "kind": "github_repo",
-            "summary": "4989 stars, Rust repo, last push 0 days ago",
+            "summary": "4990 stars, Rust repo, last push 0 days ago",
             "url": "https://github.com/pgdogdev/pgdog",
             "detail": {
-              "stars": 4989,
+              "stars": 4990,
               "language": "Rust",
               "matched_by": "direct_link"
             }
@@ -269,7 +269,7 @@
         "total": 77,
         "notes": {
           "technical_depth": "repo via direct HN link; systems language (Rust).",
-          "open_source_wedge": "public repo, 1k+ stars (4989).",
+          "open_source_wedge": "public repo, 1k+ stars (4990).",
           "organic_traction": "326 HN points, 63 comments.",
           "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
         }
@@ -289,7 +289,7 @@
           "source": "https://news.ycombinator.com/item?id=47123631"
         },
         {
-          "claim": "GitHub repo pgdogdev/pgdog (4989 stars, matched by direct_link)",
+          "claim": "GitHub repo pgdogdev/pgdog (4990 stars, matched by direct_link)",
           "source": "https://github.com/pgdogdev/pgdog"
         },
         {
@@ -324,7 +324,7 @@
           "forks": 36,
           "language": "Go",
           "pushed_at": "2020-01-13T23:28:06Z",
-          "days_since_push": 2345,
+          "days_since_push": 2346,
           "html_url": "https://github.com/mgartner/pg_flame",
           "matched_by": "direct_link",
           "owner_profile": {
@@ -342,17 +342,17 @@
         "signals": [
           {
             "kind": "hn_launch",
-            "summary": "321 points / 42 comments on Show HN, launched ~2423 days ago",
+            "summary": "321 points / 42 comments on Show HN, launched ~2424 days ago",
             "url": "https://news.ycombinator.com/item?id=21371642",
             "detail": {
               "points": 321,
               "comments": 42,
-              "age_days": 2423
+              "age_days": 2424
             }
           },
           {
             "kind": "github_repo",
-            "summary": "1618 stars, Go repo, last push 2345 days ago",
+            "summary": "1618 stars, Go repo, last push 2346 days ago",
             "url": "https://github.com/mgartner/pg_flame",
             "detail": {
               "stars": 1618,
@@ -379,7 +379,7 @@
       "team": "HN submitter @mgartner; GitHub owner: Marcus Gartner 49 GitHub followers. The GitHub owner has 49 followers and 51 public repos. Deeper background not findable from public data (treat as unknown).",
       "product": "flamegraph visualizations of PostgreSQL query plans. Built primarily in Go (per its public repo).",
       "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
-      "risks": "Key risks / open questions: repo's last commit was 2345 days ago — possibly abandoned.",
+      "risks": "Key risks / open questions: repo's last commit was 2346 days ago — possibly abandoned.",
       "change_my_mind": [
         "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
         "A clear wedge from open-source adoption to a monetizable product"
@@ -421,11 +421,11 @@
         },
         "github": {
           "full_name": "hexclave/pgmock",
-          "stars": 1230,
+          "stars": 1231,
           "forks": 24,
           "language": "JavaScript",
           "pushed_at": "2025-11-26T01:59:31Z",
-          "days_since_push": 202,
+          "days_since_push": 203,
           "html_url": "https://github.com/hexclave/pgmock",
           "matched_by": "direct_link",
           "owner_profile": {
@@ -453,10 +453,10 @@
           },
           {
             "kind": "github_repo",
-            "summary": "1230 stars, JavaScript repo, last push 202 days ago",
+            "summary": "1231 stars, JavaScript repo, last push 203 days ago",
             "url": "https://github.com/hexclave/pgmock",
             "detail": {
-              "stars": 1230,
+              "stars": 1231,
               "language": "JavaScript",
               "matched_by": "direct_link"
             }
@@ -471,7 +471,7 @@
         "total": 73,
         "notes": {
           "technical_depth": "repo via direct HN link; developer language (JavaScript).",
-          "open_source_wedge": "public repo, 1k+ stars (1230).",
+          "open_source_wedge": "public repo, 1k+ stars (1231).",
           "organic_traction": "379 HN points, 79 comments.",
           "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
         }
@@ -491,7 +491,7 @@
           "source": "https://news.ycombinator.com/item?id=39960537"
         },
         {
-          "claim": "GitHub repo hexclave/pgmock (1230 stars, matched by direct_link)",
+          "claim": "GitHub repo hexclave/pgmock (1231 stars, matched by direct_link)",
           "source": "https://github.com/hexclave/pgmock"
         },
         {
@@ -522,11 +522,11 @@
         },
         "github": {
           "full_name": "russellromney/honker",
-          "stars": 2852,
+          "stars": 2859,
           "forks": 69,
           "language": "Python",
           "pushed_at": "2026-06-15T20:06:10Z",
-          "days_since_push": 0,
+          "days_since_push": 1,
           "html_url": "https://github.com/russellromney/honker",
           "matched_by": "direct_link",
           "owner_profile": {
@@ -534,13 +534,13 @@
             "name": "russell romney",
             "bio": "software engineer, urbanism geek",
             "company": null,
-            "followers": 125,
-            "public_repos": 156,
+            "followers": 126,
+            "public_repos": 157,
             "type": "User",
             "html_url": "https://github.com/russellromney"
           }
         },
-        "founders_signal": "HN submitter @russellthehippo; GitHub owner: russell romney 125 GitHub followers",
+        "founders_signal": "HN submitter @russellthehippo; GitHub owner: russell romney 126 GitHub followers",
         "signals": [
           {
             "kind": "hn_launch",
@@ -554,10 +554,10 @@
           },
           {
             "kind": "github_repo",
-            "summary": "2852 stars, Python repo, last push 0 days ago",
+            "summary": "2859 stars, Python repo, last push 1 days ago",
             "url": "https://github.com/russellromney/honker",
             "detail": {
-              "stars": 2852,
+              "stars": 2859,
               "language": "Python",
               "matched_by": "direct_link"
             }
@@ -572,13 +572,13 @@
         "total": 73,
         "notes": {
           "technical_depth": "repo via direct HN link; developer language (Python).",
-          "open_source_wedge": "public repo, 1k+ stars (2852).",
+          "open_source_wedge": "public repo, 1k+ stars (2859).",
           "organic_traction": "327 HN points, 84 comments.",
           "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
         }
       },
       "call": "Take a meeting",
-      "team": "HN submitter @russellthehippo; GitHub owner: russell romney 125 GitHub followers. The GitHub owner has 125 followers and 156 public repos; bio: software engineer, urbanism geek. Deeper background not findable from public data (treat as unknown).",
+      "team": "HN submitter @russellthehippo; GitHub owner: russell romney 126 GitHub followers. The GitHub owner has 126 followers and 157 public repos; bio: software engineer, urbanism geek. Deeper background not findable from public data (treat as unknown).",
       "product": "Postgres NOTIFY/LISTEN Semantics for SQLite. Built primarily in Python (per its public repo).",
       "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
       "risks": "Key risks / open questions: main open question is durability of traction and whether the OSS wedge converts to revenue.",
@@ -592,7 +592,7 @@
           "source": "https://news.ycombinator.com/item?id=47874647"
         },
         {
-          "claim": "GitHub repo russellromney/honker (2852 stars, matched by direct_link)",
+          "claim": "GitHub repo russellromney/honker (2859 stars, matched by direct_link)",
           "source": "https://github.com/russellromney/honker"
         },
         {
@@ -645,12 +645,12 @@
         "signals": [
           {
             "kind": "hn_launch",
-            "summary": "332 points / 36 comments on Show HN, launched ~4269 days ago",
+            "summary": "332 points / 36 comments on Show HN, launched ~4270 days ago",
             "url": "https://news.ycombinator.com/item?id=8423825",
             "detail": {
               "points": 332,
               "comments": 36,
-              "age_days": 4269
+              "age_days": 4270
             }
           },
           {
@@ -728,7 +728,7 @@
           "forks": 21,
           "language": "PLpgSQL",
           "pushed_at": "2024-04-14T03:38:25Z",
-          "days_since_push": 793,
+          "days_since_push": 794,
           "html_url": "https://github.com/supabase/index_advisor",
           "matched_by": "direct_link",
           "owner_profile": {
@@ -736,27 +736,27 @@
             "name": "Supabase",
             "bio": "The Postgres Development Platform.",
             "company": null,
-            "followers": 10455,
+            "followers": 10468,
             "public_repos": 154,
             "type": "Organization",
             "html_url": "https://github.com/supabase"
           }
         },
-        "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers",
+        "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10468 GitHub followers",
         "signals": [
           {
             "kind": "hn_launch",
-            "summary": "417 points / 97 comments on Show HN, launched ~793 days ago",
+            "summary": "417 points / 97 comments on Show HN, launched ~794 days ago",
             "url": "https://news.ycombinator.com/item?id=40028111",
             "detail": {
               "points": 417,
               "comments": 97,
-              "age_days": 793
+              "age_days": 794
             }
           },
           {
             "kind": "github_repo",
-            "summary": "1700 stars, PLpgSQL repo, last push 793 days ago",
+            "summary": "1700 stars, PLpgSQL repo, last push 794 days ago",
             "url": "https://github.com/supabase/index_advisor",
             "detail": {
               "stars": 1700,
@@ -773,17 +773,17 @@
         "market_timing": 5,
         "total": 69,
         "notes": {
-          "technical_depth": "repo via direct HN link; language: PLpgSQL; founder has 10455 GitHub followers.",
+          "technical_depth": "repo via direct HN link; language: PLpgSQL; founder has 10468 GitHub followers.",
           "open_source_wedge": "public repo, 1k+ stars (1700).",
           "organic_traction": "417 HN points, 97 comments.",
           "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
         }
       },
       "call": "Take a meeting",
-      "team": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers. The GitHub owner has 10455 followers and 154 public repos; bio: The Postgres Development Platform.. Deeper background not findable from public data (treat as unknown).",
+      "team": "HN submitter @kiwicopple; GitHub owner: Supabase 10468 GitHub followers. The GitHub owner has 10468 followers and 154 public repos; bio: The Postgres Development Platform.. Deeper background not findable from public data (treat as unknown).",
       "product": "This is a Postgres extension that can determine if a query should have an index. For example, for this table:<p><pre><code>    create table. Built primarily in PLpgSQL (per its public repo).",
       "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
-      "risks": "Key risks / open questions: repo's last commit was 793 days ago — possibly abandoned.",
+      "risks": "Key risks / open questions: repo's last commit was 794 days ago — possibly abandoned.",
       "change_my_mind": [
         "Evidence of post-launch traction growth (stars/users) rather than a one-day HN spike",
         "A clear wedge from open-source adoption to a monetizable product"
@@ -825,10 +825,10 @@
         },
         "github": {
           "full_name": "electric-sql/pglite",
-          "stars": 15399,
+          "stars": 15403,
           "forks": 391,
           "language": "TypeScript",
-          "pushed_at": "2026-06-16T16:07:45Z",
+          "pushed_at": "2026-06-16T18:34:09Z",
           "days_since_push": 0,
           "html_url": "https://github.com/electric-sql/pglite",
           "matched_by": "name_search",
@@ -837,13 +837,13 @@
             "name": "Electric",
             "bio": "The agent platform built on sync.",
             "company": null,
-            "followers": 585,
+            "followers": 586,
             "public_repos": 60,
             "type": "Organization",
             "html_url": "https://github.com/electric-sql"
           }
         },
-        "founders_signal": "HN submitter @samwillis; GitHub owner: Electric 585 GitHub followers",
+        "founders_signal": "HN submitter @samwillis; GitHub owner: Electric 586 GitHub followers",
         "signals": [
           {
             "kind": "hn_launch",
@@ -857,10 +857,10 @@
           },
           {
             "kind": "github_repo",
-            "summary": "15399 stars, TypeScript repo, last push 0 days ago",
+            "summary": "15403 stars, TypeScript repo, last push 0 days ago",
             "url": "https://github.com/electric-sql/pglite",
             "detail": {
-              "stars": 15399,
+              "stars": 15403,
               "language": "TypeScript",
               "matched_by": "name_search"
             }
@@ -874,14 +874,14 @@
         "market_timing": 5,
         "total": 60,
         "notes": {
-          "technical_depth": "repo via name search (lower confidence); developer language (TypeScript); founder has 585 GitHub followers.",
-          "open_source_wedge": "public repo, 1k+ stars, name-matched (unverified repo) (15399).",
+          "technical_depth": "repo via name search (lower confidence); developer language (TypeScript); founder has 586 GitHub followers.",
+          "open_source_wedge": "public repo, 1k+ stars, name-matched (unverified repo) (15403).",
           "organic_traction": "509 HN points, 108 comments.",
           "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
         }
       },
       "call": "Watch",
-      "team": "HN submitter @samwillis; GitHub owner: Electric 585 GitHub followers. The GitHub owner has 585 followers and 60 public repos; bio: The agent platform built on sync.. Deeper background not findable from public data (treat as unknown).",
+      "team": "HN submitter @samwillis; GitHub owner: Electric 586 GitHub followers. The GitHub owner has 586 followers and 60 public repos; bio: The agent platform built on sync.. Deeper background not findable from public data (treat as unknown).",
       "product": "in-browser WASM Postgres with pgvector and live sync. Built primarily in TypeScript (per its public repo).",
       "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
       "risks": "Key risks / open questions: GitHub repo was matched by name search, not a direct link — verify it's the right repo.",
@@ -895,7 +895,7 @@
           "source": "https://news.ycombinator.com/item?id=41224689"
         },
         {
-          "claim": "GitHub repo electric-sql/pglite (15399 stars, matched by name_search)",
+          "claim": "GitHub repo electric-sql/pglite (15403 stars, matched by name_search)",
           "source": "https://github.com/electric-sql/pglite"
         },
         {
@@ -938,13 +938,13 @@
             "name": "Supabase",
             "bio": "The Postgres Development Platform.",
             "company": null,
-            "followers": 10455,
+            "followers": 10468,
             "public_repos": 154,
             "type": "Organization",
             "html_url": "https://github.com/supabase"
           }
         },
-        "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers",
+        "founders_signal": "HN submitter @kiwicopple; GitHub owner: Supabase 10468 GitHub followers",
         "signals": [
           {
             "kind": "hn_launch",
@@ -975,14 +975,14 @@
         "market_timing": 5,
         "total": 51,
         "notes": {
-          "technical_depth": "repo via name search (lower confidence); systems language (C); founder has 10455 GitHub followers.",
+          "technical_depth": "repo via name search (lower confidence); systems language (C); founder has 10468 GitHub followers.",
           "open_source_wedge": "public repo, 200+ stars, name-matched (unverified repo) (646).",
           "organic_traction": "296 HN points, 38 comments.",
           "market_timing": "Not assessed (no LLM) — conservative placeholder so unscored market doesn't inflate the call; confirm manually -> 5/20."
         }
       },
       "call": "Watch",
-      "team": "HN submitter @kiwicopple; GitHub owner: Supabase 10455 GitHub followers. The GitHub owner has 10455 followers and 154 public repos; bio: The Postgres Development Platform.. Deeper background not findable from public data (treat as unknown).",
+      "team": "HN submitter @kiwicopple; GitHub owner: Supabase 10468 GitHub followers. The GitHub owner has 10468 followers and 154 public repos; bio: The Postgres Development Platform.. Deeper background not findable from public data (treat as unknown).",
       "product": "an experimental CRDT extension for Postgres. Built primarily in C (per its public repo).",
       "market": "Market sizing and 'why now' require analyst/LLM judgement and were NOT assessed in offline mode. Run with an ANTHROPIC_API_KEY for this section.",
       "risks": "Key risks / open questions: GitHub repo was matched by name search, not a direct link — verify it's the right repo; repo's last commit was 431 days ago — possibly abandoned.",
@@ -1095,12 +1095,12 @@
         "signals": [
           {
             "kind": "hn_launch",
-            "summary": "296 points / 89 comments on Show HN, launched ~3602 days ago",
+            "summary": "296 points / 89 comments on Show HN, launched ~3603 days ago",
             "url": "https://news.ycombinator.com/item?id=12227507",
             "detail": {
               "points": 296,
               "comments": 89,
-              "age_days": 3602
+              "age_days": 3603
             }
           }
         ]
